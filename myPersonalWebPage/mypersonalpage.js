@@ -9,6 +9,7 @@ const server = http.createServer((req, res) => {
   if(req.url === '/mail/process'){
   	res.end('Mail process path\n');
   }
+  res.end('Hola Mundo');
   
 });
 

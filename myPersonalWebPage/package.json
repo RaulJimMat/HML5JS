@@ -1,0 +1,26 @@
+{
+  "name": "my-personal-page",
+  "version": "1.0.0",
+  "description": "Mi pagina personal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulJimMat/HML5JS.git"
+  },
+  "keywords": [
+    "web",
+    "page"
+  ],
+  "author": "Raul Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaulJimMat/HML5JS/issues"
+  },
+  "homepage": "https://github.com/RaulJimMat/HML5JS#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
